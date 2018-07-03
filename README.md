@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+What's up!
+
+I'm Onno Bastings, a 16 year old graphic designer from the Netherlands aspiring to expand to coding.
